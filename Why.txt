@@ -41,3 +41,12 @@ This allowed:
           Very flexible addressing
           Good compiler support
           Easy array and structure access
+4. Data Types
+
+          Byte (8 bits)
+          Halfword (16 bits)
+          Word (32 bits)
+          Doubleword (64 bits)
+          Packed decimal
+          Floating point (short, long)
+          This is a rich data model for the time.
