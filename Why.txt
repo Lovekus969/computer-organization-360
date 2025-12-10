@@ -4,3 +4,19 @@ The IBM System/360 is one of the most influential computer architectures ever ma
 Why? Because it introduced standardized architecture — meaning many machines, one instruction set.
 
 Let’s break it into the major topics you need for your repo and for studying computer organization.
+
+🔥 1. Architecture vs Organization
+
+In computer architecture:
+     Architecture = What the computer shows to the programmer
+    
+    Examples:
+    
+          Register set
+          Instruction set
+    
+    Data types
+    
+          Memory addressing
+          Input/output model
+          Organization = How the computer is built internally
