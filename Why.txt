@@ -79,3 +79,14 @@ This is the ancestor of:
                Low-end models (slow microcode)
                High-end models (faster circuits)
                All still compatible!
+
+7. Why System/360 Matters Today
+
+It introduced ideas used in ALL modern architectures:
+          Standard ISA
+          General registers
+          Separate architecture vs organization
+          Big-endian representation
+          Indexed addressing
+          Microprogramming
+          Compatible family of machines
