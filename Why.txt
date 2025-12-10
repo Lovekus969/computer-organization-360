@@ -66,3 +66,16 @@ This is the ancestor of:
 
      DMA (Direct Memory Access)
      Modern I/O controllers
+
+6. Microprogramming
+
+   Most System/360 machines used microprogrammed control units.
+
+     Meaning:
+     
+         Every instruction → executed by sequences of simpler micro-operations stored in a “control memory”.
+     
+     This helped them release:
+               Low-end models (slow microcode)
+               High-end models (faster circuits)
+               All still compatible!
