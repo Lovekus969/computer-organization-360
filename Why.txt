@@ -34,3 +34,10 @@ System/360 uses 16 general-purpose registers:
 
 Effective address:
       EA = contents(B) + contents(X) + displacement
+
+
+This allowed:
+
+          Very flexible addressing
+          Good compiler support
+          Easy array and structure access
