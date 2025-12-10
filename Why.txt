@@ -20,3 +20,9 @@ In computer architecture:
           Memory addressing
           Input/output model
           Organization = How the computer is built internally
+
+2. System/360 Architectural Highlights
+✔️ 2.1 Register Set
+
+System/360 uses 16 general-purpose registers:
+    R0 – R15
