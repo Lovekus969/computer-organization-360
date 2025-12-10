@@ -26,3 +26,11 @@ In computer architecture:
 
 System/360 uses 16 general-purpose registers:
     R0 – R15
+
+3. Addressing Modes
+
+    System/360 has:
+    ✔️ Base + Index + Displacement
+
+Effective address:
+      EA = contents(B) + contents(X) + displacement
