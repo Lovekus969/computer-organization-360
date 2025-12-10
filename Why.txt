@@ -1,0 +1,6 @@
+SYSTEM/360 ARCHITECTURE — THE CLEAN, EASY BREAKDOWN
+
+The IBM System/360 is one of the most influential computer architectures ever made.
+Why? Because it introduced standardized architecture — meaning many machines, one instruction set.
+
+Let’s break it into the major topics you need for your repo and for studying computer organization.
