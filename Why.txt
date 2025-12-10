@@ -50,3 +50,19 @@ This allowed:
           Packed decimal
           Floating point (short, long)
           This is a rich data model for the time.
+
+5. I/O Model — Special Feature
+
+     System/360 used Channels for I/O.
+     Channels are mini-CPUs dedicated to I/O.
+
+So:
+
+     CPU gives I/O job to channel
+     Channel talks to device
+     CPU continues executing instructions
+
+This is the ancestor of:
+
+     DMA (Direct Memory Access)
+     Modern I/O controllers
