@@ -90,3 +90,7 @@ It introduced ideas used in ALL modern architectures:
           Indexed addressing
           Microprogramming
           Compatible family of machines
+
+PCIe 3.0 provides 8 GT/s per lane and uses efficient 128b/130b encoding, making it twice
+as fast as PCIe 2.0. PCIe 3.0 offers lower latency, higher bandwidth, and better
+performance while remaining backward compatible with earlier generations.
